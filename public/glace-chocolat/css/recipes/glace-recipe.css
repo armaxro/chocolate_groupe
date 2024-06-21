@@ -1,9 +1,13 @@
+<<<<<<< Updated upstream
 @font-face {
     font-family: 'BiteChocolate';
     src: url('../../fonts/BiteChocolate-2RGl.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
+=======
+
+>>>>>>> Stashed changes
 
 body{
     font-family: Arial, Helvetica, sans-serif;
@@ -23,6 +27,11 @@ ul{
     background-color: rgba(90, 35, 20, 0.5);
 }
 
+<<<<<<< Updated upstream
+=======
+h1{
+    font-family: 'Dancing Script', sans-serif;
+>>>>>>> Stashed changes
 .glace-banner > p{
     font-family: 'BiteChocolate', sans-serif;
     color: #fdfbef;
@@ -32,7 +41,11 @@ ul{
     top: 50%;
     left: 50%;
     translate: -50% calc(-50% - 1.750rem);
+<<<<<<< Updated upstream
     font-size: 3.5rem;
+=======
+    font-size: 4.5rem;
+>>>>>>> Stashed changes
     background-color: rgba(0,0,0,0.25);
     border-radius: 15px;
     padding: 1rem;
@@ -62,7 +75,11 @@ h3{
 .glace-banner{
     position: relative;
     height: 650px;
+<<<<<<< Updated upstream
     background-image: url('../../img/recipes/glace/cock.jpeg');
+=======
+    background-image: url('/public/assets/brownie-pecan.jpg');
+>>>>>>> Stashed changes
     background-size: cover;
 }
 @media screen and (width > 1400px) {
