@@ -1,0 +1,2069 @@
+[33mcommit 77f25ae4ea9b2b80edf720268affbcffbf5dd2dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaxi[m[33m)[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jul 4 11:00:07 2024 +0200
+
+    modf
+
+[33mcommit dfc34a9a238649e630a693b861c811c5812fc854[m
+Merge: 3ada5a8 1cf5c52
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jul 4 10:44:33 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe into maxi
+
+[33mcommit 1cf5c5299ebda3ff616221205b0bdb0e6451ae2a[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: 8365381 7e563ce
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jul 4 10:38:17 2024 +0200
+
+    Merge pull request #66 from sebastien2506/main
+    
+    clean
+
+[33mcommit 7e563ce990b5d9e9b2ade68c2e4fd8ffed08d8e7[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Thu Jul 4 10:33:36 2024 +0200
+
+    clean
+
+[33mcommit 3ada5a8b59fa8eca396c0f800bd7610cd39ca15c[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jul 4 10:30:05 2024 +0200
+
+    button form changed
+
+[33mcommit 8365381e5c10a2dcf18ad1d769106bca03ec3dbb[m
+Merge: a5593e6 a94fd79
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jul 4 10:00:08 2024 +0200
+
+    Merge pull request #65 from armaxro/maxi
+    
+    Maxi
+
+[33mcommit 0cacfda6909112b885411e92241fc5a6e7492ca8[m
+Merge: 71f2d20 a5593e6
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Thu Jul 4 09:34:06 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit a5593e626c88380365e046fae7a6ce54a9d3e506[m
+Merge: fbfefbe 32a89e2
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jul 4 09:28:21 2024 +0200
+
+    Merge pull request #64 from OnlyPassionCode/main
+    
+    rest_time
+
+[33mcommit 32a89e29ec58cb4a2f52b877e8e1201b73b8e2d1[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jul 4 09:20:46 2024 +0200
+
+    db.sql drop database if exist choco and create
+
+[33mcommit 4adc71377fd51423d78d39224f45906598c4ac1a[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jul 4 09:16:16 2024 +0200
+
+    rest_time
+
+[33mcommit 71f2d207438ce1d9456063e926f1307dcda33472[m
+Merge: 2d048af fbfefbe
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Thu Jul 4 09:09:34 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit fbfefbe0c348d5b9c6fac855a428bf9353372ec8[m
+Merge: a97fdeb accea15
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jul 4 08:09:16 2024 +0200
+
+    Merge pull request #63 from EEnez/enez
+    
+    update
+
+[33mcommit accea157d2f175e9846d16739f20d64919f5b083[m
+Author: EEnez <enezgubeljic@gmail.com>
+Date:   Wed Jul 3 13:03:34 2024 +0200
+
+    update
+
+[33mcommit a94fd7957560c5d6933d461db08836b5919b7a6a[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jul 3 12:19:05 2024 +0200
+
+    footer
+
+[33mcommit a97fdeb1b16e6464917ca270f87708f623eef950[m
+Merge: 692e2ef 1e5996a
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 12:11:45 2024 +0200
+
+    Merge pull request #60 from Maskeeded/main
+    
+    hehe - only back-end left + style comments
+
+[33mcommit 692e2ef669d81882b59923481e7d8e2b26d3e484[m
+Merge: d4f59b0 f9cc359
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 12:11:29 2024 +0200
+
+    Merge pull request #61 from PommeDeuxTerre/pomme_recipe
+    
+    Pomme recipe
+
+[33mcommit d4f59b06abd66160159b9ab1d1fc574f2687df34[m
+Merge: 5e1afa7 19600c1
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 12:11:11 2024 +0200
+
+    Merge pull request #62 from OnlyPassionCode/main
+    
+    Add recipe description, subject comment. Fix Recipe.php request SQL +…
+
+[33mcommit f70465b74d607fb3881fd07bd86217f5fc76753f[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jul 3 12:10:30 2024 +0200
+
+    footer
+
+[33mcommit 19600c1f75917f02ccb3f58fe525581facc8871c[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jul 3 12:08:42 2024 +0200
+
+    Add recipe description, subject comment. Fix Recipe.php request SQL + upgrade SQL
+
+[33mcommit f9cc3595a262b99184dcbbea5e68b9453e58bc42[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jul 3 12:00:16 2024 +0200
+
+    chocopomme datas
+
+[33mcommit 1e5996ad49a7568fc07d50e7776bd11b506f4392[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jul 3 11:59:16 2024 +0200
+
+    chore: Update database configuration and index.php
+
+[33mcommit 5e1afa79797f7cb4526a8fdd88f441983ce20e8a[m
+Merge: a6c2612 adb71ac
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 11:36:39 2024 +0200
+
+    Merge pull request #58 from armaxro/maxi
+    
+    modif css
+
+[33mcommit adb71acc24917476a59b1abc31ce3f27971a5dee[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jul 3 11:23:17 2024 +0200
+
+    modif css
+
+[33mcommit 21fbab3e3bcdcd2a71412df18c498b98d9f139de[m
+Merge: 8c6f174 a6c2612
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jul 3 11:10:34 2024 +0200
+
+    Merge branch 'main' into pomme_recipe
+
+[33mcommit 2d048af9d2b5cf703f6b28edd5bfcb0e9079c6ad[m
+Merge: e34dabe a6c2612
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 11:09:42 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit a6c26122da763b62799451815f2ccd83d892c2b3[m
+Merge: ed9c5ff 00f18a5
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 11:08:57 2024 +0200
+
+    Merge pull request #56 from OnlyPassionCode/main
+    
+    SQL + button comment
+
+[33mcommit ed9c5ffd798b5b359fd4ce23c27a229bbcf00d15[m
+Merge: ee55493 9796115
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 11:08:48 2024 +0200
+
+    Merge pull request #57 from sebastien2506/seb
+    
+    Seb
+
+[33mcommit 9796115ce0206f9d4e3062b670c7c7df1946c6cf[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 11:03:00 2024 +0200
+
+    update
+
+[33mcommit 00f18a5c89e496aa214ba200310de996a538c5dd[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jul 3 11:00:18 2024 +0200
+
+    fix sql
+
+[33mcommit 8aa2f9139cfbfbce262a58f7e2810e9a65b2264e[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jul 3 10:57:23 2024 +0200
+
+    Add global data + glace-recipe sql need ingredient and comment
+
+[33mcommit ee55493b3985ffc2dea9c7e4608b4d3250f77dd4[m
+Merge: f68e5a3 ad56c34
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 10:54:24 2024 +0200
+
+    Merge pull request #55 from sebastien2506/seb
+    
+    update
+
+[33mcommit e34dabe63c58a7ba2fa82b8aaa4e914ab7ad7dc7[m
+Merge: fa120be f68e5a3
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 10:54:21 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit 9c1987a7e44d7f17dceaeafb0c8f6ed514ebe872[m
+Merge: ad56c34 f68e5a3
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 10:53:59 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into seb
+
+[33mcommit ad56c346a1c29a810a339bf06830abf71db86efb[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 10:52:32 2024 +0200
+
+    update
+
+[33mcommit f68e5a33d15c1559d908ff59c535d493edfa3f42[m
+Merge: 5c59ca9 0c5abc5
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jul 3 10:30:17 2024 +0200
+
+    Merge pull request #54 from sebastien2506/seb
+    
+    update
+
+[33mcommit 0c5abc59768822bb80d55a78b62deb821b9f4560[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 10:27:54 2024 +0200
+
+    update
+
+[33mcommit 8c6f17412513e76b7c957905dcbc975de4a6273f[m
+Merge: 159c7e4 5c59ca9
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jul 3 10:21:09 2024 +0200
+
+    Merge branch 'main' into pomme_recipe
+
+[33mcommit 398cbbae5db2cc464468ebf48fffa421cd17ea5a[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 10:09:33 2024 +0200
+
+    update
+
+[33mcommit 159c7e48fc53bfcdf00b895e4b9706dbfcf3e0f8[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jul 3 09:56:42 2024 +0200
+
+    update margins
+
+[33mcommit b788af77a4fed2b9ae75baa28d6534ca22d9c649[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jul 3 09:52:14 2024 +0200
+
+    add button toggle form rate + const in config for recipe id
+
+[33mcommit e71ae1ecbf964ac57a776459cb801950b47fe9a7[m
+Merge: 5c59ca9 c349adc
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jul 3 09:32:05 2024 +0200
+
+    Merge pull request #1 from Maskeeded/polish-cake
+    
+    Polish cake
+
+[33mcommit c349adcef0eb32f293327acb7c3d9493d059c379[m
+Merge: ec0d0f0 5c59ca9
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jul 3 09:31:51 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe into polish-cake
+
+[33mcommit ec0d0f0ded677de32610e714f2045931b14a5a07[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jul 3 09:28:47 2024 +0200
+
+    chore: Update Polish cake recipe page layout and styles
+
+[33mcommit fa120be7ebd7a393fa9a280586742d2a70d20cd6[m
+Merge: 74cc16e 5c59ca9
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jul 3 09:10:14 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit 848c5845c53bec2c3c1c34a9cf786846d3143c14[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jul 3 09:08:11 2024 +0200
+
+    chore: Update Polish cake recipe page layout and styles
+
+[33mcommit 5c59ca9ff63b1d5e3a15cae19e854a8a97503493[m
+Merge: 93ca560 ec90b6f
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jul 1 20:04:53 2024 +0200
+
+    Merge pull request #52 from simonaiuliana/simona
+
+[33mcommit 93ca560c3552e56b6b690352bd78a2504bccfe61[m
+Merge: c1c099c 628c783
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jul 1 20:04:17 2024 +0200
+
+    Merge pull request #53 from sebastien2506/seb
+
+[33mcommit 74cc16e350f02d35d13f1280e1090cefe42be578[m
+Merge: 6a882d7 c1c099c
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jul 1 09:36:36 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit 7aae152872e69a8d694d9f801e5cdda966a62a70[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 30 20:44:19 2024 +0200
+
+    odif
+
+[33mcommit 30f35869cf88f82888be18d176673615d6e1214a[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 30 19:50:40 2024 +0200
+
+    modif
+
+[33mcommit 80679dfc3dcad96bc3edd9c8fa7f6c77348f50c6[m
+Merge: 2b9673e 8258ddd
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sat Jun 29 20:47:18 2024 +0200
+
+    modif
+
+[33mcommit 8258ddda30163e0d7d14b991bc33122d7057c87b[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sat Jun 29 11:32:54 2024 +0200
+
+    modif
+
+[33mcommit 628c783109cd4f47c12b3b699193f4d0958f7bc2[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Fri Jun 28 16:21:43 2024 +0200
+
+    regle bug footer chez tout le monde + index
+
+[33mcommit 3954f78fb944bee973ad9d6ab61a5856a0c5d3ef[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 28 14:50:23 2024 +0200
+
+    ??
+
+[33mcommit ec90b6fc1c6678242a83357fb244bae8d2b2f7e0[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 14:46:46 2024 +0200
+
+    button toggle page2
+
+[33mcommit 435b2fda83cb61b54ff87d47be43167704bee23f[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 14:39:30 2024 +0200
+
+    toogle button
+
+[33mcommit ce7b3ed2c79bd5c0df542755394695deb02c7169[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 14:31:54 2024 +0200
+
+    responsivité
+
+[33mcommit 2b9673e413e083a9516532babab84faf707317f1[m
+Merge: 1020d41 c1c099c
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 14:19:33 2024 +0200
+
+    Merge branch 'main' into maxi
+
+[33mcommit 82079bbca76a3d2508c79f5d28c22bd281528223[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 28 13:21:49 2024 +0200
+
+    comment-btn
+
+[33mcommit 1020d4151d3205253d66d06d68f08f9ecdc5d77f[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 13:16:09 2024 +0200
+
+    odif
+
+[33mcommit fffb55a6ea21f3a2d7ed44962ddde8e5eeaca9d4[m
+Merge: bcbb5ca c1c099c
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 13:14:31 2024 +0200
+
+    Merge branch 'main' into pomme_recipe
+
+[33mcommit c1c099c95f21d74503869d17a4380f0b91285196[m
+Merge: 7b08ba7 3c79b76
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 13:06:17 2024 +0200
+
+    Merge pull request #48 from PommeDeuxTerre/pomme_recipe
+    
+    animation toggle comment form
+
+[33mcommit 7b08ba75e253bf12bd391155cf4def8be338ed93[m
+Merge: 43e557a fb95b9a
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 13:06:00 2024 +0200
+
+    Merge pull request #49 from sebastien2506/seb
+    
+    regle bug index
+
+[33mcommit 43e557af9af31c2057002cbb83103a6a4b0d000a[m
+Merge: dd069c4 30e7913
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 13:05:38 2024 +0200
+
+    Merge pull request #50 from EEnez/enez
+    
+    modif des fichiers
+
+[33mcommit dd069c4d11a402099481da30793f43bc755a0dc8[m
+Merge: eda78ae c9ade46
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 13:04:22 2024 +0200
+
+    Merge pull request #51 from PommeDeuxTerre/maxi
+    
+    fix maxi's page
+
+[33mcommit c9ade46511b132ada6b31ef2cfba9413353e8fbc[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 13:01:34 2024 +0200
+
+    fix maxi's page
+
+[33mcommit 30e79137449cf2e07eae9108be4309830ebd3ffc[m
+Author: EEnez <enezgubeljic@gmail.com>
+Date:   Fri Jun 28 12:40:05 2024 +0200
+
+    modif des fichiers
+
+[33mcommit 10966528397f156b5639eea958d450ac5e6f1c22[m
+Merge: d7ab4ed eda78ae
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 12:14:34 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into simona
+
+[33mcommit 6a882d72017fb4528dcbeba1514655e8a5aeb913[m
+Merge: 1675e2a eda78ae
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 28 12:09:38 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit fb95b9a0580de57e3306ab88a48b76b8def27381[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 28 12:07:43 2024 +0200
+
+    regle bug index
+
+[33mcommit bcbb5ca58204a9a8a5465cdd3b159f20168289c7[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 11:58:34 2024 +0200
+
+    animation img comment form toggle animation
+
+[33mcommit 6f3697d110edfa4ebe6dfc83f63203f07dd34484[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 11:51:25 2024 +0200
+
+    comment form slide toggle
+
+[33mcommit 3c79b765d8bd984281d92e7442cc4f6f2ce7eb1e[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 11:58:34 2024 +0200
+
+    animation img comment form toggle animation
+
+[33mcommit eda78aebe1a9298bfd115268baa45eeef941636c[m
+Merge: cfba5e4 cfd5cab
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:58:17 2024 +0200
+
+    Merge pull request #46 from OnlyPassionCode/main
+    
+    Fix nav.css + add subrecipe systeme DB
+
+[33mcommit cfd5cab69cc0dee3b6d297eec206515622dfa93e[m
+Merge: 528565e cfba5e4
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:58:03 2024 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 528565e17cc5d3f8092b914e36f5c2b2188e8492[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 28 11:55:30 2024 +0200
+
+    add navbar to index
+
+[33mcommit 0abe9dd76dd9aca98ec5dce63fb20edccf0320ac[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 11:55:04 2024 +0200
+
+    modif
+
+[33mcommit d7ab4ed30505a6c4b87cf77b70d762a76cf3fb6c[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 11:52:15 2024 +0200
+
+    mofif
+
+[33mcommit 261566b46c682bbf750538c1f9503f9b112ccf2c[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 11:51:25 2024 +0200
+
+    comment form slide toggle
+
+[33mcommit cfba5e4e82be635ac7b4e2971197d2f3bc7b6bbf[m
+Merge: 41ad6f8 9447eaf
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:38:26 2024 +0200
+
+    Merge pull request #47 from armaxro/maxi
+    
+    Maxi
+
+[33mcommit dc3cb0e80d8c9b89e1988d96e6dbe8fa362b9985[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 28 11:38:18 2024 +0200
+
+    little fix nav ul
+
+[33mcommit 9d7358b2e51307d0e3695aac7ae1434d10b28925[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 28 11:36:51 2024 +0200
+
+    Fix nav.css + add subrecipe systeme DB
+
+[33mcommit 9447eafe7ebc7571c0a7727aacb3d9d9b9b4947e[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 11:36:45 2024 +0200
+
+    add file
+
+[33mcommit 23c04f9f6e11c91cd51822a0e1226a7d4bffa06b[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 11:33:54 2024 +0200
+
+    deleted
+
+[33mcommit 41ad6f8491f558ccacb762e8752447b2b3363cb4[m
+Merge: af5393f 3ddb72b
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:30:37 2024 +0200
+
+    Merge pull request #44 from sebastien2506/seb
+    
+    regle bug index
+
+[33mcommit af5393f7b28b1f539ec68e33834d0af41aebe781[m
+Merge: ad51480 32a98c9
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:29:11 2024 +0200
+
+    Merge pull request #45 from armaxro/maxi
+    
+    font
+
+[33mcommit 32a98c9521242c1d602244aec42e2e0f0f8a97b7[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 11:23:05 2024 +0200
+
+    font
+
+[33mcommit 3ddb72b23b5fd7631324c84da47e4bb0ea1cbdac[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 28 11:19:15 2024 +0200
+
+    regle bug index
+
+[33mcommit ad514800a27546a8be4343136919941e56223dff[m
+Merge: fe699e1 eb19b30
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:10:32 2024 +0200
+
+    Merge pull request #43 from armaxro/main
+    
+    nettoyage
+
+[33mcommit eb19b3084803d76ced382d46b28cd6779ba34c22[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 11:03:30 2024 +0200
+
+    nettoyage
+
+[33mcommit fe699e15594fa8a214fd061c6ce01ecd62051ae0[m
+Merge: 5ea97f8 e7a89b5
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 11:01:25 2024 +0200
+
+    Merge pull request #42 from PommeDeuxTerre/pomme_recipe
+    
+    Pomme recipe animation line through
+
+[33mcommit e7a89b50984f55d845f90a10956323f119781f79[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 10:50:05 2024 +0200
+
+    clean directory
+
+[33mcommit 44d557414088f56f181ee44523ce783f39dfcd9b[m
+Merge: fa832d7 5ea97f8
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 10:45:12 2024 +0200
+
+    Merge branch 'main' into pomme_recipe
+
+[33mcommit fa832d73cdddf0cd9d4ed8160eef8e9f11ebf9c7[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 10:41:15 2024 +0200
+
+    fix animation line through click
+
+[33mcommit 5ea97f8e95551637bf7292c633e09df7cd0a062a[m
+Merge: 005a90e fb92dae
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 10:31:16 2024 +0200
+
+    Merge pull request #41 from Charly0475/charly
+    
+    Charly
+
+[33mcommit 3ea37876d4e5a02445891bb4690c171a35650e52[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 10:26:14 2024 +0200
+
+    delete page calculateur.php
+
+[33mcommit 1e432742675e6eb54a39e64fa346ca40b3a5e4c1[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 10:24:51 2024 +0200
+
+    pages js
+
+[33mcommit 63a0ea90ca038cb004e710d449490290dd137ff8[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Fri Jun 28 10:11:39 2024 +0200
+
+    line-through animation
+
+[33mcommit fb92dae1ca004ce36e6b85b2275fc0aa88649a4f[m
+Author: Charly0475 <charly.ongemba.ngongo@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 10:09:36 2024 +0200
+
+    key
+
+[33mcommit 005a90ec367a38746a14b7c302017b77c091f3a6[m
+Merge: fe10fba 0457697
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 10:09:32 2024 +0200
+
+    Merge pull request #40 from armaxro/main
+    
+    links
+
+[33mcommit 2191467fb8b59ad1fe29a245ce219dc7ec864a19[m
+Merge: fd06136 fe10fba
+Author: Charly0475 <charly.ongemba.ngongo@cf2000.onmicrosoft.com>
+Date:   Fri Jun 28 10:07:15 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into charly
+
+[33mcommit 0457697da9e8937d1a6b71fe12dd2076efe40be6[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 10:06:28 2024 +0200
+
+    links
+
+[33mcommit fe10fba7d6309b41bf27c233971b6684b288bec4[m
+Merge: 03eea94 132265c
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 09:50:02 2024 +0200
+
+    Merge pull request #39 from sebastien2506/seb
+    
+    meme si kev veux pas je men fou je comit
+
+[33mcommit 132265cfe849df69c16a38f888519500acc75f2a[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 28 09:48:10 2024 +0200
+
+    meme si kev veux pas je men fou je comit
+
+[33mcommit 03eea9435b1504d8963d5c90c695e2f1f465f951[m
+Merge: bb3e73b af07f30
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 09:45:49 2024 +0200
+
+    Merge pull request #38 from armaxro/main
+    
+    modif liens
+
+[33mcommit bb3e73b2dce72c04221b55438a93fa4779aa197e[m
+Merge: e3a07b6 6b96723
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 28 09:44:57 2024 +0200
+
+    Merge pull request #37 from sebastien2506/seb
+    
+    ajout image kev
+
+[33mcommit af07f3035d43a68a559588dd5238bdc4cdff5a91[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 28 09:33:52 2024 +0200
+
+    modif liens
+
+[33mcommit 6b96723d9a589a6b987adf7229c22cf633b25622[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 28 09:15:44 2024 +0200
+
+    ajout image kev
+
+[33mcommit e3a07b676b67d1fbc299fd618ac5425d70cad1c0[m
+Merge: 01b564b 985abd5
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:05:24 2024 +0200
+
+    Merge pull request #36 from simonaiuliana/simona
+
+[33mcommit 01b564b3f851cadd13b28509462bcfafc08ed286[m
+Merge: 4d72792 834d19d
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:04:33 2024 +0200
+
+    Merge pull request #35 from EEnez/enez
+
+[33mcommit 4d72792ed6a5b81cb2f789a09a3590dcdd2a4153[m
+Merge: 82fde50 c6c4e23
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:04:18 2024 +0200
+
+    Merge pull request #32 from OnlyPassionCode/main
+
+[33mcommit 82fde50950b1326f7b65dcfa1ff01019e51720f9[m
+Merge: c37784a 98cae8b
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:03:45 2024 +0200
+
+    Merge pull request #33 from armaxro/maxi
+
+[33mcommit c37784a620bab50a841b72d2f9cc9bf4b431a02b[m
+Merge: 3f25cf2 9c25bdc
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:03:29 2024 +0200
+
+    Merge pull request #34 from sebastien2506/seb
+
+[33mcommit 3f25cf258b2be1b73eb44991dbc008e10f3800e7[m
+Merge: 71427e8 58bb73c
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 27 16:03:11 2024 +0200
+
+    Merge pull request #31 from Maskeeded/polish-cake
+
+[33mcommit 98cae8b5e25dba246cb653e42b3821f58315c9e7[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 27 15:58:58 2024 +0200
+
+    nav
+
+[33mcommit 985abd5dc29627bcff4e2af5350cfe155aa7c0b2[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Thu Jun 27 15:48:18 2024 +0200
+
+    +photo, video
+
+[33mcommit 9c25bdcd9c4f6172efa8382c789344444e33e46b[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Thu Jun 27 15:47:01 2024 +0200
+
+    rajout footer dasn index original
+
+[33mcommit 834d19d4866f9f4f360fedc2f3f765aad245e248[m
+Merge: 796ec9d 9c22f02
+Author: EEnez <enezgubeljic@gmail.com>
+Date:   Thu Jun 27 15:39:13 2024 +0200
+
+    sans conflit
+
+[33mcommit 7cf4093d3079764fe0e6d5675d49fd59e28e4d54[m
+Merge: befaffe 71427e8
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Thu Jun 27 15:02:42 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into seb
+
+[33mcommit c6c4e2314953a1e464e57c7a8f8809c623eedcf4[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 14:04:52 2024 +0200
+
+    DB : duration -> preparation_time + adaptation datatest
+
+[33mcommit 1b329114605ceb5b0d3f77f4e86e4023e8e9de21[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 14:02:02 2024 +0200
+
+    DB : fix instruction
+
+[33mcommit cf789b74d4a79e1b0c319e946d8462130dcafd1e[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 13:56:34 2024 +0200
+
+    DB : Add sub_recipe
+
+[33mcommit eb97a92a6c9fbf1e81e0d768c1eb7ec2c2780c99[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 13:47:14 2024 +0200
+
+    DB : Refactor table many to many
+
+[33mcommit bdbb6dd13e8a5023647ad492d1d7928d1cc83f0b[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 27 13:34:51 2024 +0200
+
+    modif
+
+[33mcommit 87523d18a89f2b228e032bcbfad0fc219001764e[m
+Merge: dfad08d 80bcc2b
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 27 13:19:37 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe
+
+[33mcommit 80bcc2b39f2a3418328b23b53642c93cf1fd6b23[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 27 13:18:12 2024 +0200
+
+    recettes
+
+[33mcommit 51ffd6ab2ec3f815cc4ea08aa9fe5fa2908c2e66[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Thu Jun 27 13:17:18 2024 +0200
+
+    cards
+
+[33mcommit d704774d449e07229fd219e9e283a6ddf6adac9d[m
+Merge: 6318214 71427e8
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Thu Jun 27 13:03:41 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into simona
+
+[33mcommit 0dd3b32b7341a0be26781151c0bfd19274f3dd32[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 11:46:41 2024 +0200
+
+    remove usless script
+
+[33mcommit b099737ea5e79307e74b018d0d50eb11840f3481[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 11:32:18 2024 +0200
+
+    add library javascript-html-rich-text-editors for comment
+
+[33mcommit 0110331eb8006d22da326b68949b67c5d822c870[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 10:48:47 2024 +0200
+
+    refactoring comment
+
+[33mcommit f8f1c70d49c2a4a8d864e673b32c838843cb4edc[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 27 09:42:16 2024 +0200
+
+    refactor
+
+[33mcommit befaffe5d645e4769e1a4923bafda0759adc87b8[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Wed Jun 26 15:54:40 2024 +0200
+
+    seb
+
+[33mcommit 424d85bac251d873718073b31fc9c4ee74c9df2f[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 14:53:58 2024 +0200
+
+    fix nav bar
+
+[33mcommit dfad08db770ff6e6827668d933c85606d3430376[m
+Merge: 18fb5d2 100d9e8
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 13:24:07 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe
+
+[33mcommit 18fb5d2f172738c3cc406341c2954f856a2ea123[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 13:21:22 2024 +0200
+
+    footer
+
+[33mcommit c1bcf3929d4b9367f76ca9adf4e389728ff8719d[m
+Merge: a83d353 71427e8
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 13:00:18 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 6318214c6fe82107f1b0c592a5e77733361ca1f3[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Wed Jun 26 12:58:21 2024 +0200
+
+    calculatrice ingredients et price
+
+[33mcommit 100d9e8eb7d2cbdf2edcdec9fa4da7905717b12d[m
+Merge: ae1b4fb 155f4da
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 12:50:19 2024 +0200
+
+    merge
+
+[33mcommit ae1b4fbc9d1a6824c2550e985838fe7009672785[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 12:36:17 2024 +0200
+
+    form
+
+[33mcommit 958f35977915e6b0f26a91cc1a98c515620f310d[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jun 26 12:14:57 2024 +0200
+
+    update struct main.js
+
+[33mcommit a83d3539e1f71789fa8f636cf5ec8603b9dfd6d0[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 12:12:31 2024 +0200
+
+    fix corner icecream
+
+[33mcommit e040410433780266f075d74e7ae39c49ad74f0e9[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jun 26 12:02:08 2024 +0200
+
+    line-through animation
+
+[33mcommit 8858fe05865835484d3036c3b2ba7a72f11e5b34[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 12:00:42 2024 +0200
+
+    media < 100 to <1600 for corner ice cream
+
+[33mcommit 60d1bbb232371a4d6c0af298ba5593e05da2a475[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 11:57:54 2024 +0200
+
+    add corner animation + refactor
+
+[33mcommit 58bb73c7f496c0f36eb3be2aaf76857622ab08fc[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jun 26 11:53:31 2024 +0200
+
+    added animation
+
+[33mcommit 5a6b80523edaa505bf4ac2e4030185956d5da63e[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jun 26 11:40:17 2024 +0200
+
+    Finished the front-end
+
+[33mcommit 36d606068d41ca39c3863be18d62a5e9f248ea58[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 11:18:26 2024 +0200
+
+    css
+
+[33mcommit 71427e8f265c024996fb0fa4794a88e759e863aa[m
+Merge: 9c22f02 155f4da
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jun 26 11:13:42 2024 +0200
+
+    Merge pull request #29 from armaxro/main
+    
+    site
+
+[33mcommit 155f4da6d758cd518f875d4021a9c953f8e10e40[m
+Merge: 4b9186d 9c22f02
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 11:10:59 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 4b9186dd10c200604afe928a259e25d61426d0c6[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 11:10:43 2024 +0200
+
+    js
+
+[33mcommit 32ac547cf4875c92147947043a5f5563ecc5abdb[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Wed Jun 26 10:39:44 2024 +0200
+
+    pageSimona2.html
+
+[33mcommit 796ec9d52d9a4fda2c810dccfffe842f79ebad51[m
+Author: EEnez <enezgubeljic@gmail.com>
+Date:   Wed Jun 26 10:36:29 2024 +0200
+
+    update recette
+
+[33mcommit 0de5614e49e97e19888927f42b6d5e96bed43588[m
+Merge: 1fa6a7b efaff10
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 09:41:53 2024 +0200
+
+    form
+
+[33mcommit efaff1048fca90412285ff0d26e198487deab0d8[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Wed Jun 26 09:37:38 2024 +0200
+
+    css
+
+[33mcommit ab8a9dbdbfeb0fff071c348d25fba0ed0f3cf826[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Wed Jun 26 09:32:36 2024 +0200
+
+    calculatrice ingredients et modification formulaire
+
+[33mcommit 1d587fc103a9a1729bdf186041d7679a3625f4cb[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Wed Jun 26 09:25:20 2024 +0200
+
+    fix navbar
+
+[33mcommit b703d4823e3ea5266f593fb59b56423ca92274d1[m
+Merge: 1e1f305 9c22f02
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Wed Jun 26 09:20:28 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into simona
+
+[33mcommit 1e1f305cfc91f6f7fe1bafece9be9ed71cf1a33b[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Wed Jun 26 09:19:55 2024 +0200
+
+    modification
+
+[33mcommit 29c59de018f9fcb0ed0c22896a9e99d7f7094ceb[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Wed Jun 26 09:19:20 2024 +0200
+
+    Added main part with steps
+
+[33mcommit cf8188f7643ae527f9f70f5e278ce038adf175a8[m
+Merge: 906807e 9c22f02
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 26 09:13:37 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 1fa6a7b09ae215c50036e2a73989235365ab6e8f[m
+Merge: 453e25b c495391
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 25 22:23:23 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe
+
+[33mcommit c495391485ecece10bf17db5cd7c25c432d19325[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 25 22:21:31 2024 +0200
+
+    form
+
+[33mcommit 453e25bdc0061823544a21c8c711dc19e86e047f[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 25 15:27:03 2024 +0200
+
+    form
+
+[33mcommit 044142c3d15b9001e7d13c9789ce17d6d268740f[m
+Merge: bf03bb9 ee032c9
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 25 15:18:02 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe
+
+[33mcommit ee032c92bf84661a8d0904a84cf4232c7c8c627c[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 25 15:17:30 2024 +0200
+
+    svg
+
+[33mcommit 9c22f02708c31a8d2978b421ac1918e67a71f1b1[m
+Merge: 59c5eb6 601e304
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Tue Jun 25 07:55:35 2024 +0200
+
+    Merge pull request #28 from PommeDeuxTerre/pomme_recipe
+
+[33mcommit 59c5eb644bec8dc5f6610f68839a35eb25cbfbfc[m
+Merge: 43c1301 66a39fc
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Tue Jun 25 07:55:15 2024 +0200
+
+    Merge pull request #27 from Maskeeded/polish-cake
+
+[33mcommit 906807e2b1ece6218eaaf864a4e5e39a5539983a[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 16:16:18 2024 +0200
+
+    font Playfair Display + offset aos 100
+
+[33mcommit 2733d26da1dca126006b985f18c3e3931852d27a[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Mon Jun 24 12:43:05 2024 +0200
+
+    calculeateur ingredients
+
+[33mcommit 988914ba066ebc7252e70d3a8e6323d5a84dc49a[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Mon Jun 24 12:33:16 2024 +0200
+
+    3photos
+
+[33mcommit 601e30456271d445ea81541276a4199053a92120[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 24 12:04:46 2024 +0200
+
+    add footer
+
+[33mcommit a8eb2ce9e2752850c552dd964d151944d0df544e[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 24 11:06:35 2024 +0200
+
+    update navbar
+
+[33mcommit 17e5d567e8263347ecc0f08bce5cc4f9e409afc4[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 24 10:58:19 2024 +0200
+
+    add contact form
+
+[33mcommit c2e19c5cab51eb3b8069f902cc073c634d8ac7f1[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 24 10:43:25 2024 +0200
+
+    add animations
+
+[33mcommit 764e2d14e85cd7e2a271c7c4ffcdad5191b9b533[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 24 10:15:53 2024 +0200
+
+    recipe page
+
+[33mcommit 43c1301ce5b9666154678caf7d83f0919ca262f1[m
+Merge: 335d962 59ea79b
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 11:52:38 2024 +0200
+
+    Merge pull request #24 from sebastien2506/seb
+    
+    Seb
+
+[33mcommit 335d9628ea0873c05650c18018fab9a212a73682[m
+Merge: a003567 9ad01cf
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 11:52:19 2024 +0200
+
+    Merge pull request #26 from OnlyPassionCode/main
+    
+    fix copyright fontawesome
+
+[33mcommit 9ad01cf3ed80fe0e6a6bd93213a773395ad99bbd[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 11:51:49 2024 +0200
+
+    fix copyright fontawesome
+
+[33mcommit 66a39fcb26abf6c8ca801b09d064b9625de0400b[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Mon Jun 24 11:45:51 2024 +0200
+
+    publishshshs
+
+[33mcommit 59ea79bee71c044281ea21f4b129665dedfa92ec[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 11:45:27 2024 +0200
+
+    update
+
+[33mcommit 8214830e1ee26547f9ade7eb58fa135147115911[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Mon Jun 24 11:26:26 2024 +0200
+
+    chore: Update Polish cake recipe page layout and styles
+
+[33mcommit 8d904073451695bbd2fd223c09419f225b029f4c[m
+Merge: f104899 a003567
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 11:25:44 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into seb
+
+[33mcommit a0035674cb642d301c210d871a07ecb56c025b46[m
+Merge: 8012cc4 5af7f93
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 11:24:14 2024 +0200
+
+    Merge pull request #25 from OnlyPassionCode/main
+    
+    animation
+
+[33mcommit 5af7f938aa1a09386f41e9c582c258744b6ef6c9[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 11:22:47 2024 +0200
+
+    animation
+
+[33mcommit f10489944e57b0aee63d327153c8a4ab9ee0ebcb[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 11:09:47 2024 +0200
+
+    update
+
+[33mcommit e3e07660ff51e485aa0333b510f1bc4a23a3a7da[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Mon Jun 24 11:02:15 2024 +0200
+
+    modification
+
+[33mcommit 8c3df347add9319bb708191ee7dab83576548d45[m
+Merge: a03663e 8012cc4
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 10:59:40 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 8012cc4260358ce8c7cc5a5c45ad9c1a7e0e8405[m
+Merge: e44374f 6d5759c
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 10:59:35 2024 +0200
+
+    Merge pull request #23 from sebastien2506/seb
+    
+    Seb
+
+[33mcommit 8f61f74bec210ad46c9045e705752b8857f5588e[m
+Author: Maskeeded <147373587+Maskeeded@users.noreply.github.com>
+Date:   Mon Jun 24 10:13:11 2024 +0200
+
+    chore: Remove unused code and update dependencies
+
+[33mcommit 15489d5bcb3b715812fea8a289ee0612132e33e7[m
+Merge: 6d5759c e44374f
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 09:58:37 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into seb
+
+[33mcommit 09893e22b7942627cf411f9539d780cf68fbf498[m
+Merge: bcc0d3c e44374f
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Mon Jun 24 09:54:27 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe into maxi
+
+[33mcommit bcc0d3ce61d045d1d8442b9c9a232b7711bab5c2[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Mon Jun 24 09:51:26 2024 +0200
+
+    css
+
+[33mcommit 6d5759c9111f03eeff8a42e80a76ab6d274fcb89[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 09:43:41 2024 +0200
+
+    footer
+
+[33mcommit cf172994eee7ab134fac53a91a5b8e8548355ebf[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Mon Jun 24 09:42:41 2024 +0200
+
+    add css nav
+
+[33mcommit a03663e84e706111bdfdcff8aff39b2907f52b75[m
+Merge: 3753fba e44374f
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 09:36:30 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 3753fbaf19f10906764f92bc83f94673ee988b2d[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 24 09:35:56 2024 +0200
+
+    refactor + fix slidetoggle nav
+
+[33mcommit 3acb604bd540121ef2f4bc38d67f02e677218da7[m
+Merge: 11e4a11 5de52c9
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 09:33:37 2024 +0200
+
+    Merge branch 'seb' of github.com:sebastien2506/chocolate_groupe into seb
+
+[33mcommit 1675e2aeaebcd5db217a58e1e01eb9d055392f10[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 24 09:30:31 2024 +0200
+
+    footer
+
+[33mcommit e44374f16ec8418e0b72abb6defe7eca3b118767[m
+Merge: 96d0e4d 5de52c9
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 08:54:11 2024 +0200
+
+    Merge pull request #21 from sebastien2506/seb
+    
+    bordel 2
+
+[33mcommit 96d0e4d29bc5538cda6cc5aa8795122b06b918d4[m
+Merge: 82fdb2c 9c77946
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 24 08:53:39 2024 +0200
+
+    Merge pull request #22 from OnlyPassionCode/main
+    
+    glace-chocolat
+
+[33mcommit 5de52c99caa8ef75565a784ced5c409bf23379c2[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 23:30:28 2024 +0200
+
+    bordel 7
+
+[33mcommit 52e554ae0828f417c68f712b95d3bbb472e2ac9d[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 23:29:49 2024 +0200
+
+    bordel 6
+
+[33mcommit fb3fc09982eaccd8dc25db583a3a374fb381d767[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 23:20:16 2024 +0200
+
+    bordel 5
+
+[33mcommit 9c779461c949b9dbf3ea49b90b91df82d3202fb6[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 23:17:01 2024 +0200
+
+    link mousse chocolat
+
+[33mcommit 658fc488e6562d34d5a5088b3ef2d6c7c94f0ad7[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 23:02:55 2024 +0200
+
+    bordel 4
+
+[33mcommit 4e98649c74c40d9f3e5e2294a9e615d0686e82c2[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 23:01:24 2024 +0200
+
+    comments link
+
+[33mcommit b6bb3bd9a9af993f8be8de27c13a280ead135069[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 22:57:39 2024 +0200
+
+    deplacement glace chocolat to membre kevin
+
+[33mcommit 2f51860c30a2c91fa70a735d6df8c299e78f5c43[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 22:53:15 2024 +0200
+
+    bordel 3
+
+[33mcommit 2002b3c4b37bb61b61b73754504b660cdc4c3503[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Sun Jun 23 22:47:59 2024 +0200
+
+    bordel 2
+
+[33mcommit 8f5ebf6f4bf075138aab46733cd23904b2979bd0[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 22:46:01 2024 +0200
+
+    glace chocolat
+
+[33mcommit 88d7b41965c51ad131cadde78e82db006385326a[m
+Merge: f428457 9e9c8fa
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 23 21:19:00 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe into maxi
+
+[33mcommit f428457bb04e6f44661375cf63e23f4e49919320[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 23 21:16:17 2024 +0200
+
+    media query
+
+[33mcommit 0a121a87088edc8f72b3991fc154e2724a7272da[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 23 16:44:04 2024 +0200
+
+    jquery
+
+[33mcommit 741664332154213220e47c995d8c76d23bfc9940[m
+Merge: 847a7e5 82fdb2c
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 15:07:48 2024 +0200
+
+    Merge branch 'main' of https://github.com/mageeeb/chocolate_groupe
+
+[33mcommit 847a7e5a343dcb34cd1fb31227ab329ad2a34aa2[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sun Jun 23 15:07:26 2024 +0200
+
+    glace-chocolat carousel + refactor
+
+[33mcommit 11ea08f934d8d16a77c2f13df195677a97144bd2[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sun Jun 23 00:31:11 2024 +0200
+
+    css
+
+[33mcommit be8fad185aafc8dcfc6c898fde9ffed7a6b61c94[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sat Jun 22 22:52:40 2024 +0200
+
+    git status
+
+[33mcommit c73872e3d9cb1513ae3b7a0f79dfcf7b6df5e3cc[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Sat Jun 22 16:51:17 2024 +0200
+
+    recettes
+
+[33mcommit 82fdb2cc2a773a195bc7bdc564bdfaa530454cfa[m
+Merge: 76bcc57 c1a170f
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Sat Jun 22 11:10:14 2024 +0200
+
+    Merge pull request #20 from sebastien2506/seb
+
+[33mcommit 27c62b9a39f696079a7c77b92c6c85340b4f5aeb[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Sat Jun 22 01:03:41 2024 +0200
+
+    fix responsive + debug
+
+[33mcommit c1a170f7c3a384e2ce63d4b36bdaecf2617ad95b[m
+Merge: 4e70c14 7f53667
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Fri Jun 21 23:11:32 2024 +0200
+
+    Merge branch 'seb' of github.com:sebastien2506/chocolate_groupe into seb
+
+[33mcommit 6cb8b41ea3b11d9c40f803c99ea36e4a4987b6d0[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 21 23:07:40 2024 +0200
+
+    update files css js
+
+[33mcommit 4e70c14819697fd82a7594a52cdf4e41d969b770[m
+Merge: 1923523 76bcc57
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Fri Jun 21 23:02:27 2024 +0200
+
+    bordel
+
+[33mcommit bf03bb9b7fb005926bd0cbc0a7e5fe6dd2fc9f92[m
+Merge: e8eae49 9e9c8fa
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 21 22:14:09 2024 +0200
+
+    Merge branch 'maxi' of https://github.com/armaxro/chocolate_groupe
+
+[33mcommit e8eae496b256a55829af954d66d95fc990799df3[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 21 22:12:02 2024 +0200
+
+    recette
+
+[33mcommit 192352302695caa22a4365f101fa698bc9fbe13c[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Fri Jun 21 20:03:53 2024 +0200
+
+    recette
+
+[33mcommit 567c51cb5f5331976347614b74f4b7941875b801[m
+Author: sebastien <jestrovic_8@msn.com>
+Date:   Fri Jun 21 17:30:12 2024 +0200
+
+    1
+
+[33mcommit 76bcc5785dbab31db3521b677cecf7335ad43eb5[m
+Merge: b4e7e46 d5fb1f6
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 16:20:21 2024 +0200
+
+    Merge pull request #19 from simonaiuliana/simona
+
+[33mcommit d5fb1f62c7c04f6391a48ab78c56976283c320e5[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Fri Jun 21 16:10:25 2024 +0200
+
+    pageSimona
+
+[33mcommit 11e4a11dd1406414fa960059f20565e893b736f8[m
+Merge: 7f53667 b4e7e46
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 16:08:26 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe into seb
+
+[33mcommit 7f53667d06c5f5f22f50beec098e1873f6feeab5[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 16:07:40 2024 +0200
+
+    footer
+
+[33mcommit b4e7e46a39b69eaa16d833785e17897e5056aef0[m
+Merge: 1d8dca3 befb6f2
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 16:07:06 2024 +0200
+
+    Merge pull request #18 from EEnez/enez
+
+[33mcommit befb6f2ec31e4010853683c76fa304cc3dc99863[m
+Author: EEnez <enezgubeljic@gmail.com>
+Date:   Fri Jun 21 16:05:07 2024 +0200
+
+    new
+
+[33mcommit 1d8dca35acadef16e1a83d0d5af317bf64ba04db[m
+Merge: 69a4c04 60e2146
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 15:58:47 2024 +0200
+
+    Merge pull request #15 from LauraTcf2/laura_choco
+
+[33mcommit 69a4c0495b8fe63df2c626eb604612e41993f5dc[m
+Merge: 9637cdc 4229053
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 15:58:33 2024 +0200
+
+    Merge pull request #17 from OnlyPassionCode/main
+
+[33mcommit 9637cdc20b0995758c3092d336d14367e9c9e4f1[m
+Merge: 435452b cf3243c
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 15:58:01 2024 +0200
+
+    Merge pull request #16 from sebastien2506/seb
+
+[33mcommit 422905394994444a7fe759d22e84c61c90005766[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 21 15:56:00 2024 +0200
+
+    add image steps + bootstrap adaptation
+
+[33mcommit cf3243c054ee5cbd6de6632eac0d8b9ab6fdd92c[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 15:27:07 2024 +0200
+
+    footer
+
+[33mcommit 3b28aee04e076f628df4623beb862c764823dc14[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Fri Jun 21 15:01:00 2024 +0200
+
+    remove chocolat nav + upgrading glace au chocolat
+
+[33mcommit 60e214610281b943bbfdace859904bd7336abc7d[m
+Author: Laura <Tekfi.laura@hotmail.com>
+Date:   Fri Jun 21 14:40:55 2024 +0200
+
+    finito block
+
+[33mcommit 5003656306e6092aa80209e10c7fa30b64589e76[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 14:29:14 2024 +0200
+
+    footer
+
+[33mcommit e41f0acb36165b7c7db525a168f2fb858d365371[m
+Merge: 8eaf9a3 435452b
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 13:43:38 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit 8eaf9a3dc1f15fa5a497d385069eb6bc82e68e9b[m
+Merge: 627a4ff 9894381
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 13:40:17 2024 +0200
+
+    Merge branch 'main' of github.com:sebastien2506/chocolate_groupe
+
+[33mcommit 627a4ffeaadd2c31902aae8a70a7f668f9282c59[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Fri Jun 21 13:39:57 2024 +0200
+
+    pic
+
+[33mcommit 675953c81ac1c180ecad273659b06b84b7346b07[m
+Merge: e3e6b10 435452b
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 21 13:24:50 2024 +0200
+
+    Merge branch 'main' of github.com:mageeeb/chocolate_groupe
+
+[33mcommit e3e6b1074e17fba4b7cef693f982b085889cc04b[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Fri Jun 21 13:22:03 2024 +0200
+
+    recette perso
+
+[33mcommit 435452b01847dd3e2854e5b2d8b7fc4d89b5c759[m
+Merge: 89436e1 d2302f7
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Fri Jun 21 13:06:33 2024 +0200
+
+    Merge pull request #14 from OnlyPassionCode/main
+    
+    Glace au chocolat in progress...
+
+[33mcommit d2302f7f154b2813cdf43717910bb40a304769f4[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 20 22:45:44 2024 +0200
+
+    Glace au chocolat in progress...
+
+[33mcommit 89436e17626b047ecff3a799b91fce1ac60aa24f[m
+Author: CF2M <magibsall@gmail.com>
+Date:   Thu Jun 20 13:35:13 2024 +0200
+
+    insert
+
+[33mcommit 786e2bccc028c22da3247b3138f937bdde78ba03[m
+Merge: b703110 8e35477
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 20 13:10:49 2024 +0200
+
+    Merge pull request #13 from PommeDeuxTerre/pomme
+    
+    getStarsAvg | insertComment
+
+[33mcommit b7031100e7d9eb245fb7b2ec531805777ae32fce[m
+Merge: c9dd5ee f7955b6
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 20 13:10:33 2024 +0200
+
+    Merge pull request #12 from simonaiuliana/simona
+    
+    mofification formulaire
+
+[33mcommit c9dd5ee79941c06a861c923fa74b4c7721135d9c[m
+Merge: 1da2503 92c4bf5
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 20 13:10:14 2024 +0200
+
+    Merge pull request #11 from OnlyPassionCode/main
+    
+    refactor nav + header-text
+
+[33mcommit 5bbb6d9fccb5c37b95bc2d15deb4609b06ab4ab3[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 12:56:40 2024 +0200
+
+    recettes
+
+[33mcommit 9e9c8fabfd018aa317677005ca24b2d2a77c9719[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 12:53:29 2024 +0200
+
+    card
+
+[33mcommit 7307a0a7effc50039ca30959e2d3e7438860424f[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 12:09:12 2024 +0200
+
+    page recette
+
+[33mcommit 8e354779299248093d84ce9bd47c086ad392d21c[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 12:06:57 2024 +0200
+
+    update comments
+
+[33mcommit 3cb367267e8406221061056a2aeadb22b79725e3[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 11:45:13 2024 +0200
+
+    insertComment
+
+[33mcommit fd06136354a4a6afff0d105c2ee1979e02aa059d[m
+Merge: 5e1131f 1da2503
+Author: Charly0475 <147161842+Charly0475@users.noreply.github.com>
+Date:   Thu Jun 20 12:05:15 2024 +0200
+
+    Merge pull request #1 from mageeeb/main
+    
+    charly1
+
+[33mcommit f7955b658c084d20f7ef2c0ad51cae68496a1305[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Thu Jun 20 11:53:36 2024 +0200
+
+    mofification formulaire
+
+[33mcommit 6eb452b6fd7b91a2de82f46d01b42fec3f805392[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 10:53:55 2024 +0200
+
+    better error handling
+
+[33mcommit 87d1a1e6349042f6289da27cfc318900a3839864[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 10:49:31 2024 +0200
+
+    getStars
+
+[33mcommit 92c4bf5e9ab3e84b32eb77034016fdf0b8949cb0[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Thu Jun 20 10:46:32 2024 +0200
+
+    refactor nav + header-text
+
+[33mcommit 1da250372f71aff40d135ac3201917c64e22c9da[m
+Merge: 9e46bbc 5a8b0da
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 20 10:23:17 2024 +0200
+
+    Merge pull request #10 from PommeDeuxTerre/pomme
+    
+    models | config.php
+
+[33mcommit f46e9dc0a2a6f18085715ed697d00d39fd13203c[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 10:21:14 2024 +0200
+
+    changes
+
+[33mcommit 5a8b0dae62e2297e0295e37cee9426bb45088c4c[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 10:19:06 2024 +0200
+
+    fix bugs model and add config.php
+
+[33mcommit 3c6d2ce64eec4b1dcb72ca7608cb693d7a65d21d[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Thu Jun 20 09:40:37 2024 +0200
+
+    delete methods
+
+[33mcommit 9ac1f56f2d9e41e0ce03257015a3c29c3bb3d1d2[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 10:20:18 2024 +0200
+
+    Instruction->update
+
+[33mcommit c50f9d7ad534d26d2ed443e547c60ee6eacbbd00[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 09:16:54 2024 +0200
+
+    Recipe->delete
+
+[33mcommit f102e5b4c17cd7c5a13f3ae3c891a60ee01bc3f9[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 09:12:11 2024 +0200
+
+    Recipe->update
+
+[33mcommit 9f85e161585fbc017e284a2283da1e79f15619ea[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 08:58:17 2024 +0200
+
+    Recipe->create
+
+[33mcommit ce79f72cd01e6d7d516272c2265ffdec9b55fb14[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 08:38:47 2024 +0200
+
+    getRecipeByName
+
+[33mcommit c8af4722e94412a9fab96c71f49afd7fbe8becd3[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 08:25:56 2024 +0200
+
+    update Recipe
+
+[33mcommit 9dffe4445b4fca9a60b8bcb5f18cb70c784d3d12[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 08:25:49 2024 +0200
+
+    update Instruction
+
+[33mcommit 62e91a00a13929f6e124c18904cd8713ddd61800[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Tue Jun 18 08:07:28 2024 +0200
+
+    Category model
+
+[33mcommit c32c96900f06414199417b1d17ccfcc194580a77[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Mon Jun 17 20:10:00 2024 +0200
+
+    update getRecipeById
+
+[33mcommit b64b93f4c4a5121ee6bbe254e763c32f514eaea6[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Mon Jun 17 19:47:04 2024 +0200
+
+    model sql request
+
+[33mcommit ca575e9ffbf80d7ba83598549b6d5faf743f6e07[m
+Author: pommejedusor <118850425+pommeJedusor@users.noreply.github.com>
+Date:   Mon Jun 17 19:21:29 2024 +0200
+
+    add dataset
+
+[33mcommit c24974565668eeb627c7507924e7765437f2756a[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 16:14:46 2024 +0200
+
+    save
+
+[33mcommit ba09529b8d08b02618186513c3e47f821b2ccfb1[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 16:10:45 2024 +0200
+
+    update Instruction model
+
+[33mcommit 82bfd1a5efb1f447548cd80525e478c1fe3d7621[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 16:04:29 2024 +0200
+
+    rename comment model
+
+[33mcommit 9e64cc6261387fe9c8ee352f78bf34770e99aa5f[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 16:03:06 2024 +0200
+
+    comment model
+
+[33mcommit 34a593ae83a494d257c7c4cce946c2b5fc0e4d23[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 15:54:59 2024 +0200
+
+    update model Ingredient
+
+[33mcommit ade18d1a2568209ed41fb94458fc154f5b59ec87[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 15:36:28 2024 +0200
+
+    getRecipeById sql
+
+[33mcommit f2c72122cef63690297590fcce864055798060cf[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 14:24:38 2024 +0200
+
+    ingredient
+
+[33mcommit 2c874ae4dcdce114f06809b34a0ab2c73e561a0c[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 14:07:20 2024 +0200
+
+    instruction model
+
+[33mcommit ed16e30be6c5df6bbe1495bfce1634b9bc27bfd1[m
+Author: PommeDeuxTerre <147161646+PommeDeuxTerre@users.noreply.github.com>
+Date:   Mon Jun 17 14:00:00 2024 +0200
+
+    db
+
+[33mcommit 9e46bbc4a78769bd34158dd4cb8a87158689b5c3[m
+Merge: 17585a8 e0c4859
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Thu Jun 20 10:03:22 2024 +0200
+
+    Merge pull request #9 from simonaiuliana/main
+    
+    formulaire commentaire
+
+[33mcommit e0c48597b0373c94c542dee91cf91db8af648826[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Thu Jun 20 09:35:29 2024 +0200
+
+    formulaire commentaire
+
+[33mcommit 71cb6d1389a9193efaed2b3127e673ffb1d90a79[m
+Merge: 5deb84c 17585a8
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 09:25:30 2024 +0200
+
+    Merge branch 'main' of github.com:armaxro/chocolate_groupe
+
+[33mcommit 5deb84c6e416dd9b7b1393dbce7a90d995804bc3[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Thu Jun 20 09:25:08 2024 +0200
+
+    modif
+
+[33mcommit 17585a8c3fc69bb7f45fb7fe0897ce60300cfd89[m
+Merge: bc74076 b57c68c
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jun 19 22:44:57 2024 +0200
+
+    Merge pull request #8 from OnlyPassionCode/main
+
+[33mcommit b57c68cc7f052013b5c860ea761cb209acdecdcd[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Wed Jun 19 22:11:41 2024 +0200
+
+    phone mode 600px to 900px. Add image to nav + refactor name recipes.
+
+[33mcommit bc740761fe0a615796b816d2aaf0c6b16de56dff[m
+Merge: 0f26b36 e0d51c0
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Wed Jun 19 08:32:35 2024 +0200
+
+    Merge pull request #7 from OnlyPassionCode/main
+
+[33mcommit aa7b7120c05ac0598ce623e3819f31311a1a4caa[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Tue Jun 18 21:19:14 2024 +0200
+
+    landing page
+
+[33mcommit e0d51c09a1c8425a1c6924104205df37e19aeef0[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Tue Jun 18 15:52:45 2024 +0200
+
+    little refactor nav-bar
+
+[33mcommit 0f26b36efc1ed1c3421e6b7d6f8db7685479110b[m
+Merge: 9894381 1824c3f
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Tue Jun 18 08:53:39 2024 +0200
+
+    Merge pull request #6 from OnlyPassionCode/main
+    
+    nav responsive LOL ( Good Luck 😊😂 )
+
+[33mcommit 1824c3f73d2b925f121ee3a057d1b9085218f78c[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 17 22:28:53 2024 +0200
+
+    nav responsive LOL
+
+[33mcommit 2d569bda06fb6d509469a933abdf56e6f9b007b8[m
+Author: Maxi Rojas <arnaldomrojas@outlook.com>
+Date:   Mon Jun 17 16:20:05 2024 +0200
+
+    accueil
+
+[33mcommit 989438140fc7ca41e6beb3e392fc28bca0ee145d[m
+Merge: 0851699 956df61
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 17 16:09:36 2024 +0200
+
+    Merge pull request #5 from Charly0475/charly
+    
+    yes
+
+[33mcommit 956df615c6a05be79c03782b3cec4d11449e4cdd[m
+Author: Charly0475 <charly.ongemba.ngongo@cf2000.onmicrosoft.com>
+Date:   Mon Jun 17 16:05:32 2024 +0200
+
+    yes
+
+[33mcommit 08516996991a3c3206729a1cc9c56c4f3de6d396[m
+Merge: 5e1131f 06ba53f
+Author: Baye Fall <112185392+mageeeb@users.noreply.github.com>
+Date:   Mon Jun 17 15:55:13 2024 +0200
+
+    Merge pull request #4 from OnlyPassionCode/main
+    
+    Prototype nav bar
+
+[33mcommit 06ba53f109ed40ba654cc422d42e70de1d499efb[m
+Author: OnlyPassionCode <van.wassenhove.kevin.pro@hotmail.com>
+Date:   Mon Jun 17 15:48:33 2024 +0200
+
+    Prototype nav bar
+
+[33mcommit 5e1131f893924667138d19e56a3afc7ed0ab269f[m
+Merge: e32d9c4 a4bc5e2
+Author: sebastien <147162220+sebastien2506@users.noreply.github.com>
+Date:   Mon Jun 17 13:54:30 2024 +0200
+
+    Merge pull request #3 from sebastien2506/main
+    
+    photo
+
+[33mcommit a4bc5e2c2c4bf5a48b3c4359a24e9f3cbb69de7b[m
+Merge: 090e9bc 8005f35
+Author: sebastien <147162220+sebastien2506@users.noreply.github.com>
+Date:   Mon Jun 17 13:33:09 2024 +0200
+
+    Merge pull request #1 from simonaiuliana/main
+    
+    simona
+
+[33mcommit 090e9bc6a0f58053bcb0b22ade6abc3001a40ee0[m
+Merge: e32d9c4 73b3ec5
+Author: sebastien <147162220+sebastien2506@users.noreply.github.com>
+Date:   Mon Jun 17 13:32:49 2024 +0200
+
+    Merge pull request #2 from sebastien2506/main
+    
+    photo seb
+
+[33mcommit 73b3ec50b39833f6a7f55c226e239fb22916bb69[m
+Author: sebastien2506 <jestrovic_8@msn.com>
+Date:   Mon Jun 17 13:22:55 2024 +0200
+
+    photo seb
+
+[33mcommit 8005f3553b56a8682b985468f3d66f1a47302482[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Mon Jun 17 12:31:17 2024 +0200
+
+    recetes
+
+[33mcommit 2daad41c5a61e728354cf39c89436bce4e58de66[m
+Author: simonaiuliana <Iuliana.hoater@cf2000.onmicrosoft.com>
+Date:   Mon Jun 17 12:30:24 2024 +0200
+
+    images
+
+[33mcommit e32d9c4f04a0a0344ecc5744a5e65ce2f52d9810[m
+Author: CF2M <magibsall@gmail.com>
+Date:   Fri Jun 14 14:05:07 2024 +0200
+
+    first-com
