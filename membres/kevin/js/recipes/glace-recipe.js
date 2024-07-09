@@ -28,6 +28,17 @@ $(document).ready(function() {
         once: true,
     });
 
+    /** img-steps */
+    addEventListener('resize', function(){
+        $('.container-img-steps').each(function(){
+            $(this).css('height', window.innerWidth > 900 ? $(this).parent().prop('scrollHeight') + 'px' : '400px');
+        });
+    })
+    $('.container-img-steps').each(function(){
+        $(this).css('height', window.innerWidth > 900 ? $(this).parent().prop('scrollHeight') + 'px' : '400px');
+    });
+    /** end img-steps */
+
     /** Corner Chocolat */
     const $cream1 = $('#ice-cream1');
     const $cream2 = $('#ice-cream2');
@@ -110,7 +121,7 @@ $(document).ready(function() {
 
         var commentHtml = `
             <div class="comment">
-                <div class="d-flex justify-content-between pe-5 pb-3 border-bottom"><strong>${name}</strong> <div>Posté le : <span class="comment-date">${date}</span></div></div>
+                <div class="d-flex justify-content-between pe-5 pb-3 border-bottom"><div>De : <strong>${name}</strong></div> <div>Posté le : <span class="comment-date">${date}</span></div></div>
                 <div class="d-flex my-3 gap-5">
                     <div class="fw-bold" style="color: rgb(var(--main-color))">
                         Sujet : ${subject}

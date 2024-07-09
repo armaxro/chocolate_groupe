@@ -1,5 +1,6 @@
 <?php
 
+require_once("Trait/TraitTimeToString.php");
 require_once("SubRecipe.php");
 require_once("Instruction.php");
 require_once("Ingredient.php");
@@ -40,6 +41,8 @@ class Recipe{
     $this->setComments($comments);
   }
 
+  use TraitTimeToString;
+
   public static function getRecipeById(PDO $db, int $id):self|string{
     $sql = "
       SELECT * FROM `recipe` r
@@ -70,15 +73,14 @@ class Recipe{
       LEFT JOIN (
         -- comments
         SELECT
-          GROUP_CONCAT(com.id SEPARATOR '|||') AS comments_ids,
-          GROUP_CONCAT(com.comment SEPARATOR '|||') AS comments,
-          GROUP_CONCAT(com.subject SEPARATOR '|||') AS subjects,
-          GROUP_CONCAT(com.created_date SEPARATOR '|||') AS comments_created_dates,
-          GROUP_CONCAT(com.stars SEPARATOR '|||') AS comments_stars,
-          GROUP_CONCAT(u.name SEPARATOR '|||') AS comments_username,
+          GROUP_CONCAT(com.id ORDER BY com.created_date DESC SEPARATOR '|||') AS comments_ids,
+          GROUP_CONCAT(com.comment ORDER BY com.created_date DESC SEPARATOR '|||') AS comments,
+          GROUP_CONCAT(com.subject ORDER BY com.created_date DESC SEPARATOR '|||') AS subjects,
+          GROUP_CONCAT(com.created_date ORDER BY com.created_date DESC SEPARATOR '|||') AS comments_created_dates,
+          GROUP_CONCAT(com.stars ORDER BY com.created_date DESC SEPARATOR '|||') AS comments_stars,
+          GROUP_CONCAT(com.user_name ORDER BY com.created_date DESC SEPARATOR '|||') AS comments_username,
           com.recipe_id AS com_recipe_id
         FROM `comment` com
-        LEFT JOIN `user` u ON com.user_id=u.id
         GROUP BY com.recipe_id
       ) com ON com.com_recipe_id=r.id
       WHERE id=$id;
@@ -152,6 +154,7 @@ class Recipe{
     ";
 
     try {
+      $db->exec('SET SESSION group_concat_max_len = 10000;');
       $query = $db->query($sql);
       $result = $query->fetchAll(PDO::FETCH_ASSOC);
       $query->closeCursor();
@@ -343,7 +346,7 @@ class Recipe{
     foreach($this->comments as $comment){
       $total += $comment->getStars();
     }
-    $avg = ceil(($total * 2) / sizeof($this->comments));
+    $avg = ceil($total * 2 / sizeof($this->comments));
     return $avg;
   }
   /**
@@ -401,5 +404,26 @@ class Recipe{
 
     $this->comments = $comments;
     return $this;
+  }
+
+  /**
+   * @return string format example : "1 heure et 30 minutes"
+   */
+  public function getPreparationTimeToString():string{
+    return $this->timeToString($this->getPreparationTime());
+  }
+
+  /**
+   * @return string format example : "1 heure et 30 minutes"
+   */
+  public function getRestTimeToString():string{
+    return $this->timeToString($this->getRestTime());
+  }
+
+  /**
+   * @return string format example : "1 heure et 30 minutes"
+   */
+  public function getCookingTimeToString():string{
+    return $this->timeToString($this->getCookingTime());
   }
 }
